@@ -1,0 +1,26 @@
+{
+  "name": "starborne-fob-tracker",
+  "version": "1.0.0",
+  "description": "A Discord bot to track enemy FOBs for Starborne players",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "Starborne",
+    "Discord"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/astralcai/starborne-fob-tracker"
+  },
+  "author": {
+    "name": "Astral Cai",
+    "email": "astralcai@gmail.com"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.3.1",
+    "dotenv": "^8.2.0"
+  }
+}
